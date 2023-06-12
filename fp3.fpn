@@ -1,0 +1,12 @@
+recordtype,comment,speed,heading,altitude,minutes
+0,Comments must begin with a hyphen in the first field and the test cannot contain commas
+0,The first row must contain headers because it is skipped
+0,This is a test flight plan
+0,All 1 recordtypes must be contiguous
+2,KORD,41.979722,87.911111,764 
+1,WP1,250,180,10000,1.1
+1,WP2,450,180,24000,1.2
+1,WP3,600,180,36000,5.3
+1,WP4,600,270,20000,1.2
+1,WP5,250,300,6000,1.4
+1,WP6,180,220,3000,1.1
